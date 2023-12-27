@@ -1,1 +1,0 @@
-this repositor is for python project

@@ -1,1 +1,0 @@
-this is the directory for hello word in python
