@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m "runned in script"
+git push
+
