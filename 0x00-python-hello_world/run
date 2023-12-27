@@ -1,5 +1,5 @@
 #!/bin/bash
-git add .
-git commit -m "runned in script"
-git push
-
+ git add .
+ git commit -m "new commit"
+ git push
+ echo "Done"
