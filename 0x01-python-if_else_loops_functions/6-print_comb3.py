@@ -6,4 +6,4 @@ for i in range(10):
                 print("{0:}{1:}".format(i,j), end=', ')
             else:
                 continue
-print("/n")
+print("\n")
